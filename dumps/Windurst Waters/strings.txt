@@ -17629,7 +17629,7 @@
 17625: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
 17626: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
 17627: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-17628: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+17628: New players and returnees may post messages until they have been logged in for a total of 240 hours since first receiving their posting rights.
 17629: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
 17630: The Assist Channel can only be used in the following areas.
 17631: Available areas: $7, $7, $7, $7, $7, $7...

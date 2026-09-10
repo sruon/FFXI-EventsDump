@@ -522,7 +522,7 @@
 - **11713**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
 - **11715**: $8 has been [added to your list of favorites/removed from your list of favorites].
 - **11716**: Your list of favorites is full. You must remove an existing entry to add new ones.
-- **11718**: Your $0 begins to quiver!
+- **11718**: Your $0 begin to quiver!
 
 ## Events
 
@@ -2551,7 +2551,7 @@ SUBROUTINE_1280:
   0: 0x1BDF [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x1BE0 [0x03] Work_Zone[2] = 23894*
   2: 0x1BE5 [0x48] [System] [11718*]:
-    → "Your $0 begins to quiver!"
+    → "Your $0 begin to quiver!"
   3: 0x1BE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1BE9 [0x03] Work_Zone[2] = 3370*
   5: 0x1BEE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=Work_Zone[2])

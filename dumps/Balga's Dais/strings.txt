@@ -7717,9 +7717,9 @@
  7713: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
  7714: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
  7715: You receive $0 gil as a bonus reward!
- 7716: You feel like there's an impossible to gauge thud left to be made!
- 7717: You feel like there's an impossible to gauge thud left to be made.
- 7718: You feel like there's an impossible to gauge thud left to be made...?
+ 7716: You feel like there's an impossible-to-gauge thud left to be made!
+ 7717: You feel like there's an impossible-to-gauge thud left to be made.
+ 7718: You feel like there's an impossible-to-gauge thud left to be made...?
  7719: You feel like there's a huge sound left to be made!
  7720: You feel like there's a huge sound left to be made.
  7721: You feel like there's a huge sound left to be made...?

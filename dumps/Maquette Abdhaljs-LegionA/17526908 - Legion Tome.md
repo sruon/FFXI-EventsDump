@@ -1,4 +1,4 @@
-# 17526913 - Legion Tome
+# 17526908 - Legion Tome
 
 ## Common Data
 

@@ -2387,7 +2387,7 @@ SUBROUTINE_2571:
      0x166A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x166B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) Render.Flags0 and Render.Flags3 conditions are met
      0x1670 [0x2B] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) [7753*]:
-    → "Oh well, let's charge this ammo and attach to battle machine."
+    → "Oh well, let's charge this ammo and attach to siege machine."
      0x1677 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1678 [0x4A] Jagidbod of Clan Reaper (ID: 17347139/0x0108B243) looks at Reaper Clan Warmachine (ID: 17347141/0x0108B245)
      0x1681 [0x1C] WAIT(10* ticks)

@@ -108,7 +108,7 @@
 - **19252**: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
 - **19253**: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
 - **19254**: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-- **19255**: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+- **19255**: New players and returnees may post messages until they have been logged in for a total of 240 hours since first receiving their posting rights.
 - **19256**: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
 - **19257**: The Assist Channel can only be used in the following areas.
 - **19258**: Available areas: $7, $7, $7, $7, $7, $7...
@@ -448,7 +448,7 @@ SUBROUTINE_0275:
     → "3. You are a mentor You may post messages as long as you remain a mentor to other players."
  92: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=19255*)
-    → "New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights."
+    → "New players and returnees may post messages until they have been logged in for a total of 240 hours since first receiving their posting rights."
  94: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=19256*)
     → "If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left."

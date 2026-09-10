@@ -7754,7 +7754,7 @@
  7750: Your wing skill improved to $0!
  7751: You got it yet?
  7752: Me looking for it with crystal dowser, but no find.
- 7753: Oh well, let's charge this ammo and attach to battle machine.
+ 7753: Oh well, let's charge this ammo and attach to siege machine.
  7754: If this worked in Great War, we no lose...
  7755: Who there!?
  7756: Then it is true...
@@ -7995,9 +7995,9 @@
  7991: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
  7992: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
  7993: You receive $0 gil as a bonus reward!
- 7994: You feel like there's an impossible to gauge thud left to be made!
- 7995: You feel like there's an impossible to gauge thud left to be made.
- 7996: You feel like there's an impossible to gauge thud left to be made...?
+ 7994: You feel like there's an impossible-to-gauge thud left to be made!
+ 7995: You feel like there's an impossible-to-gauge thud left to be made.
+ 7996: You feel like there's an impossible-to-gauge thud left to be made...?
  7997: You feel like there's a huge sound left to be made!
  7998: You feel like there's a huge sound left to be made.
  7999: You feel like there's a huge sound left to be made...?

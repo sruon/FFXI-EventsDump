@@ -1,10 +1,10 @@
-# 17952898 - Legion Libretto
+# 17526909 - Legion Libretto
 
 ## Common Data
 
 | Field            | Value                               |
 |------------------|-------------------------------------|
-| Zone             | Maquette Abdhaljs-LegionB (ID: 287) |
+| Zone             | Maquette Abdhaljs-LegionA (ID: 183) |
 | Block Size       | 680 bytes                           |
 | Total Events     | 2                                   |
 | References Count | 19                                  |

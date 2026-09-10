@@ -11719,5 +11719,5 @@
 11715: $8 has been [added to your list of favorites/removed from your list of favorites].
 11716: Your list of favorites is full. You must remove an existing entry to add new ones.
 11717: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-11718: Your $0 begins to quiver!
+11718: Your $0 begin to quiver!
 11719: Your $0 emits a faint glow. Perhaps you should head to Lufaise Meadows.

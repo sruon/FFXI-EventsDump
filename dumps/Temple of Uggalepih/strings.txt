@@ -7469,7 +7469,7 @@
  7465: This platform looks a place for an offering.
  7466: Something is written here, but you cannot make out the words.
  7467: The $3 slightly quivers, but there is no sign of Lightbringer here.
- 7468: The $3 begins to quiver!
+ 7468: The $3 begin to quiver!
  7469: You could not find Lightbringer here. Your investigation is over.
  7470: Some sort of ceremony was performed here...
  7471: Your wyvern reacts violently to this spot!

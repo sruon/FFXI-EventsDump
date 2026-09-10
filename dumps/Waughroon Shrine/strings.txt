@@ -7763,9 +7763,9 @@
  7759: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
  7760: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
  7761: You receive $0 gil as a bonus reward!
- 7762: You feel like there's an impossible to gauge thud left to be made!
- 7763: You feel like there's an impossible to gauge thud left to be made.
- 7764: You feel like there's an impossible to gauge thud left to be made...?
+ 7762: You feel like there's an impossible-to-gauge thud left to be made!
+ 7763: You feel like there's an impossible-to-gauge thud left to be made.
+ 7764: You feel like there's an impossible-to-gauge thud left to be made...?
  7765: You feel like there's a huge sound left to be made!
  7766: You feel like there's a huge sound left to be made.
  7767: You feel like there's a huge sound left to be made...?
